@@ -43,28 +43,7 @@
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
+- REACT
 
 
 
@@ -111,7 +90,7 @@ To get a local copy up and running follow these simple steps:
 
 1. Clone it using git command:
 ```
-git clone https://github.com/rebel216/Rails-React-OneApp.git
+git clone https://github.com/rebel216/Hello-Rails-React-front-end/
 ```
 
 ### Install dependencies
